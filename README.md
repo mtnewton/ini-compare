@@ -12,6 +12,6 @@ currently code does not care what section the key is under, it matches by key na
 | Key          | file1.ini  | file2.ini  |
 |----------------------------------------|
 | SomeBool     | false      | true       |
-| AnotherValue | 1000       | !!NotSet!! |                                                                              
+| AnotherValue | 1000       | !!NotSet!! |
 | ThirdValue   | !!NotSet!! | 5          | 
 ```
